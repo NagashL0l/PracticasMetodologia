@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1583772367 source:c:\users\miguelmalap\desktop\ficheros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1588525591 source:c:\users\juan\desktop\mppractica1_2020\mppractica1_2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
